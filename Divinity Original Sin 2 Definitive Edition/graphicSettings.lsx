@@ -114,7 +114,7 @@
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="RecommendedSettings" type="22" />
                     <attribute id="Type" value="1" type="5" />
-                    <attribute id="Value" value="Medium" type="20" />
+                    <attribute id="Value" value="Ultra" type="20" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="RefreshRateDenominator" type="22" />
